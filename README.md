@@ -33,7 +33,7 @@ Clark County requires short-term rentals to hold a license. In this Inside Airbn
 Meanwhile **34.7% of listings belong to hosts running 20+ properties** — unregistered hospitality
 businesses at scale.
 
-There is no verified negative anywhere in the data: no listing is stamped "confirmed unlicensed."
+There is no verified negative anywhere in the data:no listing is stamped "confirmed unlicensed."
 That rules out ordinary binary classification and makes this a textbook PU problem.
 
 ## The finding that reframed the project
