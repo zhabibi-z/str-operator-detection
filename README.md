@@ -15,6 +15,7 @@ prioritise limited audit capacity.
 > it is not an allegation, a finding, or evidence of one. The notebook's §9 sets out the deployment
 > controls (human review, register reconciliation, disparate-impact auditing) that any real use
 > would require.
+> 
 ---
 
 ## The problem
