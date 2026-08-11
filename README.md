@@ -21,7 +21,7 @@ prioritise limited audit capacity.
 ## The problem
 
 Clark County requires short-term rentals to hold a license. In this Inside Airbnb snapshot of
-20,296 Las Vegas listings:
+20,296 Las Vegas listings :
 
 | `license` field | Listings | Interpretation |
 |---|---:|---|
